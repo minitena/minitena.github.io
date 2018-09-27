@@ -1,3 +1,2 @@
-# Minitena Linux website
-
-Will be written soon!
+# Introduction
+Minitena is a minimal and optimized general purpose Linux distribution that was made from scratch. It can run on x86_64 or aarch64 CPUs. Minitena aimed to be simple, flexible and easy for experienced Linux users. The code was written with KISS (Keep It Simple, Stupid) principe. That allows making the code readable and easy to maintain. The package manager of Minitena is `pacman` because it's simple.
