@@ -1,1 +1,1 @@
-januslinux has replaced Minitena: https://januslinux.github.io
+Ataraxia Linux has replaced Minitena: https://ataraxialinux.github.io
